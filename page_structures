@@ -1,0 +1,22 @@
+relevant congress page structure
+
+<div>
+	<table class="multicol" role="presentation">
+		<tbody> == $0
+			<tr> == $0
+				<td style=text-align:left;[etc...]>
+					<h4> == $0
+						<span class="mw-headline" id=[state name]>
+					<ul>
+						<li>
+							<a href [link] .. title="name"
+
+
+relevant bio page structure (birth year is the first /n/n/n/n that is matched in the entire document)
+
+<div id= mw-content-text>
+	<div class = "mw-parser-output">
+		<p>
+			<b>[Name of congressman]</b> == $0
+				"(DOB-DOD) ... "
+		</p>
